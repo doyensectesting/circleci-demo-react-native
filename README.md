@@ -1,4 +1,4 @@
-# CircleCI Demo React Native App - test
+# CircleCI Demo React Native App - test2x
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-react-native.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-react-native)
 
